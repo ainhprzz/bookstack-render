@@ -1,1 +1,1 @@
-FROM ghcr.io/bookstackapp/bookstack:latest
+FROM solidnerd/bookstack:latest
