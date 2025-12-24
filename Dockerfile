@@ -1,1 +1,1 @@
-FROM lscr.io/linuxserver/bookstack:latest
+FROM ghcr.io/bookstackapp/bookstack:latest
