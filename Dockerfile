@@ -1,1 +1,1 @@
-FROM solidnerd/bookstack:latest
+FROM solidnerd/bookstack:22.10.2
